@@ -12,7 +12,7 @@ struct MySet {
 	char letter; 
 	char edigit; 
 };
-//myexe,
+//изменение
 void InputSet(vector<MySet>& sets, int size) 
 {
 	MySet elem_S;
